@@ -22,6 +22,18 @@ body {
     margin-top: 20px;
 }
 
+#option-A {
+    margin-top: 10px;
+}
+
 .option {
     margin: 3px;
+    padding: 6px;
+    border-radius: 5px;
+    background-color: #2b3868;
+    color: #dbdde5;
+}
+
+h1 {
+    text-align: center;
 }
